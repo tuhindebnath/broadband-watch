@@ -2,7 +2,7 @@
 
 A local-first broadband monitor for macOS that quietly watches your home connection and turns noisy network symptoms into readable daily evidence.
 
-[View the anonymized sample report](sample-report-2026-10.html)
+[![Preview of the anonymized sample report](sample-report-preview.png)](sample-report-2026-10.html)
 
 Broadband Watch helps you answer a simple question: is your internet slow because of your Wi‑Fi, your router, DNS, or your ISP? It runs in the background, checks connectivity and latency on a schedule, performs periodic speed tests, and saves HTML reports you can open locally on your Mac.
 
